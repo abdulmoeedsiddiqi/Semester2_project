@@ -1,6 +1,7 @@
 #README
 Overview
-This program is a Multiple Choice Questions (MCQ) solver designed for students in different fields of study. It includes subjects such as Physics, Chemistry, Mathematics, Statistics, and Computer Science. The program also provides general instructions for taking the test and calculates the merit based on the user's performance.
+This program is a Multiple Choice Questions (MCQ) solver designed for students in different fields of study.
+It includes subjects such as Physics, Chemistry, Mathematics, Statistics, and Computer Science. The program also provides general instructions for taking the test and calculates the merit based on the user's performance.
 
 Features
 MCQ Solver: The program includes a base class Subject and derived classes for different subjects. Each derived class implements the method to solve MCQs.
