@@ -34,23 +34,23 @@ Each derived class implements the solveMCQs method specific to its subject.
 
 The askMCQ method is used to ask questions and check answers.
 
-3.Instructions Class
+3.Instructions Class:
 
 Displays general test instructions and warnings.
 
-4.Test Class
+4.Test Class:
 
 Manages the test process, including solving MCQs for selected subjects and calculating merit.
 
-5.isUsernameRegistered Function
+5.isUsernameRegistered Function:
 
 Checks if a given username exists in the file usernames.txt.
 
-6.getPasswordForUsername Function
+6.getPasswordForUsername Function:
 
 Retrieves the password for a given username from the file passwords.txt.
 
-7.login Function
+7.login Function:
 
 Handles user login by prompting for username and password.
 
